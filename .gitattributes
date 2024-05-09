@@ -1,2 +1,3 @@
 *.md linguist-documentation-file=false
+README.md linguist-documentation-file=false
 Index.md linguist-documentation-file=true
